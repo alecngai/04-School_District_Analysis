@@ -83,6 +83,8 @@ As we can see from the results, the average reading score has increased however,
 
 ![Bottom_Five](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/bottom_five.png)
 
+There was no changes due to the fact the change in scores did not change much there for did not affect overall passing metric
+
 ### ***The average math score for each grade level from each school*** 
 
 ![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
