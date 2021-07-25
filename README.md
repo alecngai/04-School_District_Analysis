@@ -89,7 +89,6 @@ There was no changes due to the fact the change in scores did not change much th
 
 ![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
 
-
 ### ***The previous average math score for each grade level from each school*** 
 
 ![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Average_Math_Scores.png)
@@ -102,6 +101,8 @@ There was no changes due to the fact the change in scores did not change much th
 
 ![Average_Reading_Scores](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Average_Reading_Scores.png)
 
+As you can see these are exactly the same except for Thomas High School Grade 9 value is all NaN for both reading and math for the new analysis. 
+
 ### ***The scores by school spending per student*** 
 
 ![Spending_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Spending_Summary.png)
@@ -111,6 +112,8 @@ There was no changes due to the fact the change in scores did not change much th
 
 ![Spending_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Spending_Summary.png)
 
+The only change is the decrease in %0.1 in both %Passing Reading and % Overall passing in the $630-$644 range, as no other values was changed and thomas high resides in this spending range. 
+
 ### ***The scores by school size per student*** 
 
 ![Size_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Size_Summary.png)
@@ -118,6 +121,8 @@ There was no changes due to the fact the change in scores did not change much th
 ### ***The previous scores by school size per student*** 
 
 ![Size_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Size_Summary.png)
+
+There is a decrease of %0.1 percent in % Passing readings, in the medium school size, the rest are unaffected.
 
 ### ***The scores by school type per student*** 
 
@@ -127,5 +132,7 @@ There was no changes due to the fact the change in scores did not change much th
 ### ***The previous scores by school type per student*** 
 
 ![Type_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Type_Summary.png)
+
+There is no change between the two analysis. 
 
 ## Summary
