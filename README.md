@@ -136,3 +136,13 @@ There is a decrease of %0.1 percent in % Passing readings, in the medium school 
 There is no change between the two analysis. 
 
 ## Summary
+
+The changes are quite minor, there is mostly a decrease in average scores, this is probably due to the inflated grades of the cheaters in the 9th Grade of Thomas Highschool. 
+
+The grades were already quite high for Thomas High School so there was no change in ranking in which school is the best by overall passing. 
+
+The average math and reading scores are the same except for the 9th grade holding NaN values. 
+
+For the scores by school spending, size, and type there are also miner changes of %0.1 percent, only in the ranges where Thomas Highschool excisted which is $630-$644, Medium and Charter.
+
+In conclusion, removing the 9th Graders marks to re-run the analysis shows that it did not change much at all, we can conclude that majority of the 9th graders probably did not cheat and it was one or two outliers, as the scores match the average scores of other grades and there was not much difference. 
