@@ -89,20 +89,43 @@ There was no changes due to the fact the change in scores did not change much th
 
 ![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
 
+
+### ***The previous average math score for each grade level from each school*** 
+
+![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Average_Math_Scores.png)
+
 ### ***The average reading score for each grade level from each school*** 
 
 ![Average_Reading_Scores](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Reading_Scores.png)
+
+### ***The previous average reading score for each grade level from each school*** 
+
+![Average_Reading_Scores](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Average_Reading_Scores.png)
 
 ### ***The scores by school spending per student*** 
 
 ![Spending_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Spending_Summary.png)
 
+
+### ***The previous scores by school spending per student*** 
+
+![Spending_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Spending_Summary.png)
+
 ### ***The scores by school size per student*** 
 
 ![Size_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Size_Summary.png)
 
+### ***The previous scores by school size per student*** 
+
+![Size_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Size_Summary.png)
+
 ### ***The scores by school type per student*** 
 
 ![Type_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Type_Summary.png)
+
+
+### ***The previous scores by school type per student*** 
+
+![Type_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Type_Summary.png)
 
 ## Summary
