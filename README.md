@@ -46,20 +46,20 @@ After replacing the grades, we can take a look at how that affected the district
 Here we can see the differences that dropping the 9th graders from Thomas High School had on the affect of the disctrict summary. 
 
 ### ***Old School Summary*** 
-![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/old_per_school_summary_df.png)
+![old_per_school_summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/old_per_school_summary_df.png)
 
 ### ***New School Summary*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/new_per_school_summary_df.png)
+![new_per_school_summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/new_per_school_summary_df.png)
 
 Everything stays the same except for Thomas Highschool, therefor lets take a close look at just them.
 
 ### ***Old Thomas School Summary*** 
-![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/New_Thomas_School_Summary.png)
+![Old_Thomas_School_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Thomas_School_Summary.png)
 
 ### ***New Thomas School Summary*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Thomas_School_Summary.png)
+![Old_Thomas_School_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/New_Thomas_School_Summary.png)
 
 The main differences are 
 
