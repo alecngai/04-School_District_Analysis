@@ -29,17 +29,17 @@ After replacing the grades, we can take a look at how that affected the district
 - **Total Schools**
     - This metric stayed the same
 - **Total Students**
-    - Went from 39,170 to 38,709, this is becaused we removed the 9th graders from Thomas High School 
+    - Went from 39,170 to 38,709
 - **Total School Budget**
     - Budget stayed the same
 - **Average Math Score**
-    - The Average Math Score dropped from %79.0 to %78.9, this is due to the cheaters in the 9th grade being removed.
+    - The Average Math Score dropped from %79.0 to %78.9
 - **Average Reading Score**
-    - This svalue stayed the same
+    - This value stayed the same
 - **% Passing Math**
-    - This also dropped from %75 to %74.8 due to the removal of 9th graders from Thomas Highschool
+    - This also dropped from %75 to %74.8
 - **% Passing Reading**
-    - Dropped from $86 to %85.7 
+    - Dropped from %86 to %85.7 
 - **% Overall Passing**
     - Dropped from %65 to %64.9
 
@@ -61,5 +61,26 @@ Everything stays the same except for Thomas Highschool, therefor lets take a clo
 
 ![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Thomas_School_Summary.png)
 
+The main differences are 
+
+- **Average Math Score**
+    - The Average Math Score rised from %83.350937 to %83.418349
+- **Average Reading Score**
+    - The Average Reading Score decreased from %83.896082 to %83.84893
+- **% Passing Math**
+    - This also increased from %93.185639 to %93.272171
+- **% Passing Reading**
+    - Increased from %97.018739 to %97.308869
+- **% Overall Passing**
+    - Increased from %90.630324 to %90.948012 
+
+As we can see from the results, the average reading score has decreased however, the rest of the metrics increased. We must take note that these changes are miniscule and hardly affect the results. 
+
+### ***Top Five Schools based on overall passing*** 
+![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/top_five.png)
+
+### ***Bottom Five Schools based on overall passing*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/bottom_five.png)
 
 ## Summary
