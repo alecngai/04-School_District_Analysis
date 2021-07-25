@@ -59,48 +59,48 @@ Everything stays the same except for Thomas Highschool, therefor lets take a clo
 
 ### ***New Thomas School Summary*** 
 
-![Old_Thomas_School_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/New_Thomas_School_Summary.png)
+![New_Thomas_School_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/New_Thomas_School_Summary.png)
 
 The main differences are 
 
 - **Average Math Score**
-    - The Average Math Score rised from %83.350937 to %83.418349
+    - The Average Math Score decreased from %83.418349 to %83.350937
 - **Average Reading Score**
-    - The Average Reading Score decreased from %83.896082 to %83.84893
+    - The Average Reading Score increased from %83.84893 to %83.896082
 - **% Passing Math**
-    - This also increased from %93.185639 to %93.272171
+    - This also decreased from %93.272171 to %93.185639 
 - **% Passing Reading**
-    - Increased from %97.018739 to %97.308869
+    - decreased from %97.308869 to %97.018739
 - **% Overall Passing**
-    - Increased from %90.630324 to %90.948012 
+    - decreased from %90.948012 to %90.630324
 
-As we can see from the results, the average reading score has decreased however, the rest of the metrics increased. We must take note that these changes are miniscule and hardly affect the results. 
+As we can see from the results, the average reading score has increased however, the rest of the metrics decreased. We must take note that these changes are miniscule and hardly affect the results. 
 
 ### ***Top Five Schools based on overall passing*** 
-![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/top_five.png)
+![Top_Five](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/top_five.png)
 
 ### ***Bottom Five Schools based on overall passing*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/bottom_five.png)
+![Bottom_Five](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/bottom_five.png)
 
 ### ***The average math score for each grade level from each school*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
+![Average_Math_Score](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
 
 ### ***The average reading score for each grade level from each school*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Reading_Scores.png)
+![Average_Reading_Scores](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Reading_Scores.png)
 
-### ***The average reading score for each grade level from each school*** 
+### ***The scores by school spending per student*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Spending_Summary.png)
+![Spending_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Spending_Summary.png)
 
-### ***The average reading score for each grade level from each school*** 
+### ***The scores by school size per student*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Size_Summary.png)
+![Size_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Size_Summary.png)
 
-### ***The average reading score for each grade level from each school*** 
+### ***The scores by school type per student*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Type_Summary.png)
+![Type_Summary](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Type_Summary.png)
 
 ## Summary
