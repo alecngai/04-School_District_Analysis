@@ -46,11 +46,11 @@ After replacing the grades, we can take a look at how that affected the district
 Here we can see the differences that dropping the 9th graders from Thomas High School had on the affect of the disctrict summary. 
 
 ### ***Old* School Summary** 
-![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/old_district_summary_df.png)
+![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/old_per_school_summary_df.png)
 
 ### ***New School Summary*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/new_district_summary_df.png)
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/new_per_school_summary_df.png)
 
 
 ## Summary
