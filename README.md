@@ -54,12 +54,12 @@ Here we can see the differences that dropping the 9th graders from Thomas High S
 
 Everything stays the same except for Thomas Highschool, therefor lets take a close look at just them.
 
-### ***Old Thomas School Summary** 
-![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/old_thomas_school_summary.png)
+### ***Old Thomas School Summary*** 
+![District_Summary_Old](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/New_Thomas_School_Summary.png.png)
 
 ### ***New Thomas School Summary*** 
 
-![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/new_thomas_school_summary.png)
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Old_Thomas_School_Summary.png.png)
 
 
 ## Summary
