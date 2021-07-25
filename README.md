@@ -83,4 +83,24 @@ As we can see from the results, the average reading score has decreased however,
 
 ![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/bottom_five.png)
 
+### ***The average math score for each grade level from each school*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Math_Scores.png)
+
+### ***The average reading score for each grade level from each school*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Average_Reading_Scores.png)
+
+### ***The average reading score for each grade level from each school*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Spending_Summary.png)
+
+### ***The average reading score for each grade level from each school*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Size_Summary.png)
+
+### ***The average reading score for each grade level from each school*** 
+
+![District_Summary_New](https://github.com/alecngai/04-School_District_Analysis/blob/main/Resources/Type_Summary.png)
+
 ## Summary
